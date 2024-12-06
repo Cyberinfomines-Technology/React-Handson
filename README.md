@@ -1,13 +1,8 @@
 # React Tutorial Repository
 
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="120" />
 
-Welcome to the **React Tutorial** repository! 🎉 This is your go-to guide for learning **React.js** through hands-on examples and tutorials. The repository includes source code, materials, and explanations for each tutorial featured in our YouTube series.
-
 ---
-
 
 Welcome to the **React Tutorial** repository! 🎉 This is your go-to guide for learning **React.js** through hands-on examples and tutorials. The repository includes source code, materials, and explanations for each tutorial featured in our YouTube series.
 
