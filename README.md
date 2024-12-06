@@ -75,14 +75,14 @@ Open the project folder and run the required commands to start the tutorials.
 ---
 
 ## About Cyber Infomines Technology
-- **This repository is proudly presented by Cyber Infomines Technology, a trusted training provider specializing in tech, data, design, and business programs. We aim to empower individuals and organizations with skills for success in the digital era.
+- **This repository is proudly presented by Cyber Infomines Technology, a trusted training provider specializing in tech, data, design, and business programs. We aim to empower individuals and organizations with skills for success in the digital era.**
 
 ---
 
 ## 👉 Visit our website for more details about our expert-led programs!
-- **https://cyberinfomines.com/
+- **https://cyberinfomines.com/**
 ---
-##📞 Contact
-- **For questions, feedback, or collaboration opportunities, connect with us:
+## 📞 Contact
+- **For questions, feedback, or collaboration opportunities, connect with us:**
 
 ## Email: info@cyberinfomines.com
