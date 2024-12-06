@@ -1,6 +1,13 @@
 # React Tutorial Repository
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="120" />
+
+Welcome to the **React Tutorial** repository! 🎉 This is your go-to guide for learning **React.js** through hands-on examples and tutorials. The repository includes source code, materials, and explanations for each tutorial featured in our YouTube series.
+
+---
+
 
 Welcome to the **React Tutorial** repository! 🎉 This is your go-to guide for learning **React.js** through hands-on examples and tutorials. The repository includes source code, materials, and explanations for each tutorial featured in our YouTube series.
 
@@ -67,15 +74,15 @@ Open the project folder and run the required commands to start the tutorials.
 
 ---
 
-About Cyber Infomines Technology
-This repository is proudly presented by Cyber Infomines Technology, a trusted training provider specializing in tech, data, design, and business programs. We aim to empower individuals and organizations with skills for success in the digital era.
+## About Cyber Infomines Technology
+- **This repository is proudly presented by Cyber Infomines Technology, a trusted training provider specializing in tech, data, design, and business programs. We aim to empower individuals and organizations with skills for success in the digital era.
 
 ---
 
-##👉 Visit our website for more details about our expert-led programs!
-**https://cyberinfomines.com/
+## 👉 Visit our website for more details about our expert-led programs!
+- **https://cyberinfomines.com/
 ---
 ##📞 Contact
-**For questions, feedback, or collaboration opportunities, connect with us:
+- **For questions, feedback, or collaboration opportunities, connect with us:
 
-##Email: info@cyberinfomines.com
+## Email: info@cyberinfomines.com
